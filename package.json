@@ -6,6 +6,8 @@
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
+    "build": "tsc",
+    "start": "node dist/demo.js",
     "test": "jest"
   },
   "devDependencies": {
